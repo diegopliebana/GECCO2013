@@ -1,0 +1,115 @@
+\begin{thebibliography}{10}
+
+\bibitem{beer1992evolving}
+R.~Beer and J.~Gallagher.
+\newblock {Evolving Dynamical Neural Networks for Adaptive Behavior}.
+\newblock {\em Adaptive behavior}, 1(1):91--122, 1992.
+
+\bibitem{Browne2012}
+C.~Browne, E.~Powley, D.~Whitehouse, S.~Lucas, P.~Cowling, P.~Rohlfshagen,
+  S.~Tavener, D.~Perez, S.~Samothrakis, and S.~Colton.
+\newblock {A Survey of Monte Carlo Tree Search Methods}.
+\newblock {\em IEEE Transactions on Computational Intelligence and AI in
+  Games}, 4:1:1--43, 2012.
+
+\bibitem{coquelin2007bandit}
+P.-A. Coquelin, R.~Munos, et~al.
+\newblock {Bandit Algorithms for Tree Search}.
+\newblock In {\em Uncertainty in Artificial Intelligence}, 2007.
+
+\bibitem{Edelkamp2010}
+S.~Edelkamp, P.~Kissmann, D.~Sulewski, and H.~Messerschmidt.
+\newblock {Finding the Needle in the Haystack with Heuristically Guided Swarm
+  Tree Search}.
+\newblock In {\em Multikonf. Wirtschaftsinform.}, pages 2295--2308, Gottingen,
+  Germany, 2010.
+
+\bibitem{Gelly2006a}
+S.~Gelly, Y.~Wang, R.~Munos, and O.~Teytaud.
+\newblock {Modification of UCT with Patterns in Monte-Carlo Go}.
+\newblock Technical report, Inst. Nat. Rech. Inform. Auto. (INRIA), Paris,
+  2006.
+
+\bibitem{gomez1999solving}
+F.~Gomez and R.~Miikkulainen.
+\newblock {Solving Non-Markovian Control Tasks with Neuroevolution}.
+\newblock In {\em International Joint Conference on Artificial Intelligence},
+  volume~16, pages 1356--1361. LAWRENCE ERLBAUM ASSOCIATES LTD, 1999.
+
+\bibitem{Ikehata2010}
+N.~Ikehata and T.~Ito.
+\newblock {Monte Carlo Tree Search in Ms. Pac-Man}.
+\newblock In {\em Proc. 15th Game Progrramming Workshop}, pages 1--8, Kanagawa,
+  Japan, 2010.
+
+\bibitem{Lee2009}
+C.-S. Lee, M.-H. Wang, G.~M. J.-B. Chaslot, J.-B. Hoock, A.~Rimmel, O.~Teytaud,
+  S.-R. Tsai, S.-C. Hsu, and T.-P. Hong.
+\newblock {The Computational Intelligence of MoGo Revealed in Taiwan's Computer
+  Go Tournaments}.
+\newblock {\em IEEE Transactions on Computational Intelligence and AI in
+  Games}, 1(1):73--89, 2009.
+
+\bibitem{Matsumoto2010}
+S.~Matsumoto, N.~Hirosue, K.~Itonaga, K.~Yokoo, and H.~Futahashi.
+\newblock {Evaluation of Simulation Strategy on Single-Player Monte-Carlo Tree
+  Search and its Discussion for a Practical Scheduling Problem}.
+\newblock In {\em Proceedings of the International MultiConference of Engineers
+  and Computer Scientists}, volume~3, pages 2086--2091, Hong Kong, 2010.
+
+\bibitem{mercieca2011particle}
+J.~Mercieca and S.~Fabri.
+\newblock {Particle Swarm Optimization for Nonlinear Model Predictive Control}.
+\newblock In {\em ADVCOMP 2011, The Fifth International Conference on Advanced
+  Engineering Computing and Applications in Sciences}, pages 88--93, 2011.
+
+\bibitem{Perez2012b}
+D.~Perez, P.~Rohlfshagen, and S.~Lucas.
+\newblock {Monte-Carlo Tree Search for the Physical Travelling Salesman
+  Problem}.
+\newblock In {\em Proceedings of EvoApplications}, 2012.
+
+\bibitem{Perez2012a}
+D.~Perez, P.~Rohlfshagen, and S.~Lucas.
+\newblock {Monte Carlo Tree Search: Long Term versus Short Term Planning}.
+\newblock In {\em Proceedings of the IEEE Conference on Computational
+  Intelligence and Games}, 2012.
+
+\bibitem{Perez2012}
+D.~Perez, P.~Rohlfshagen, and S.~Lucas.
+\newblock {The Physical Travelling Salesman Problem: WCCI 2012 Competition}.
+\newblock In {\em Proceedings of the IEEE Congress on Evolutionary
+  Computation}, 2012.
+
+\bibitem{Powley2012}
+E.~Powley, D.~Whitehouse, and P.~Cowling.
+\newblock {Monte Carlo Tree Search with Macro-actions and Heuristic Route
+  Planning for the Physical Travelling Salesman Problem}.
+\newblock In {\em Proc. IEEE Conference of Computational Intelligence in
+  Games}, pages 234--241, 2012.
+
+\bibitem{reeves2002genetic}
+C.~R. Reeves and J.~E. Rowe.
+\newblock {\em {Genetic Algorithms-Principles and Perspectives: a Guide to GA
+  Theory}}, volume~20.
+\newblock Kluwer Academic Pub, 2002.
+
+\bibitem{Robles2009}
+D.~Robles and S.~M. Lucas.
+\newblock {A Simple Tree Search Method for Playing Ms. Pac-Man}.
+\newblock In {\em Proceedings of the IEEE Conference of Computational
+  Intelligence in Games}, pages 249--255, Milan, Italy, 2009.
+
+\bibitem{samothrakis2010planning}
+S.~Samothrakis and S.~Lucas.
+\newblock {Planning Using Online Evolutionary Overfitting}.
+\newblock In {\em UK Workshop on Computational Intelligence}, pages 1--6. IEEE,
+  2010.
+
+\bibitem{Samothrakis}
+S.~Samothrakis, D.~Robles, and S.~M. Lucas.
+\newblock {Fast Approximate Max-n Monte-Carlo Tree Search for Ms Pac-Man}.
+\newblock {\em IEEE Transactions on Computational Intelligence and AI in
+  Games}, 3(2):142--154, 2011.
+
+\end{thebibliography}

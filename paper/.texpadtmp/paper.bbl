@@ -1,0 +1,101 @@
+\begin{thebibliography}{10}
+
+\bibitem{beer1992evolving}
+R.~Beer and J.~Gallagher.
+\newblock Evolving dynamical neural networks for adaptive behavior.
+\newblock {\em Adaptive behavior}, 1(1):91--122, 1992.
+
+\bibitem{Browne2012}
+C.~Browne, E.~Powley, D.~Whitehouse, S.~Lucas, P.~Cowling, P.~Rohlfshagen,
+  S.~Tavener, D.~Perez, S.~Samothrakis, and S.~Colton.
+\newblock {A Survey of Monte Carlo Tree Search Methods}.
+\newblock {\em IEEE Transactions on Computational Intelligence and AI in
+  Games}, 4:1:1--43, 2012.
+
+\bibitem{Edelkamp2010}
+S.~Edelkamp, P.~Kissmann, D.~Sulewski, and H.~Messerschmidt.
+\newblock {Finding the Needle in the Haystack with Heuristically Guided Swarm
+  Tree Search}.
+\newblock In {\em Multikonf. Wirtschaftsinform.}, pages 2295--2308, Gottingen,
+  Germany, 2010.
+
+\bibitem{Gelly2006a}
+S.~Gelly, Y.~Wang, R.~Munos, and O.~Teytaud.
+\newblock {Modification of UCT with Patterns in Monte-Carlo Go}.
+\newblock Technical report, Inst. Nat. Rech. Inform. Auto. (INRIA), Paris,
+  2006.
+
+\bibitem{gomez1999solving}
+F.~Gomez and R.~Miikkulainen.
+\newblock Solving non-markovian control tasks with neuroevolution.
+\newblock In {\em International Joint Conference on Artificial Intelligence},
+  volume~16, pages 1356--1361. LAWRENCE ERLBAUM ASSOCIATES LTD, 1999.
+
+\bibitem{Ikehata2010}
+N.~Ikehata and T.~Ito.
+\newblock {Monte Carlo Tree Search in Ms. Pac-Man}.
+\newblock In {\em Proc. 15th Game Progr. Workshop}, pages 1--8, Kanagawa,
+  Japan, 2010.
+
+\bibitem{Lee2009}
+C.-S. Lee, M.-H. Wang, G.~M. J.-B. Chaslot, J.-B. Hoock, A.~Rimmel, O.~Teytaud,
+  S.-R. Tsai, S.-C. Hsu, and T.-P. Hong.
+\newblock {The Computational Intelligence of MoGo Revealed in Taiwan's Computer
+  Go Tournaments}.
+\newblock {\em IEEE Trans. Comp. Intell. AI Games}, 1(1):73--89, 2009.
+
+\bibitem{Matsumoto2010}
+S.~Matsumoto, N.~Hirosue, K.~Itonaga, K.~Yokoo, and H.~Futahashi.
+\newblock {Evaluation of Simulation Strategy on Single-Player Monte-Carlo Tree
+  Search and its Discussion for a Practical Scheduling Problem}.
+\newblock In {\em Proc. Int. Multi Conf. Eng. Comput. Scientists}, volume~3,
+  pages 2086--2091, Hong Kong, 2010.
+
+\bibitem{mercieca2011particle}
+J.~Mercieca and S.~Fabri.
+\newblock Particle swarm optimization for nonlinear model predictive control.
+\newblock In {\em ADVCOMP 2011, The Fifth International Conference on Advanced
+  Engineering Computing and Applications in Sciences}, pages 88--93, 2011.
+
+\bibitem{Perez2012b}
+D.~Perez, P.~Rohlfshagen, and S.~Lucas.
+\newblock Monte-carlo tree search for the physical travelling salesman problem.
+\newblock In {\em Proceedings of EvoApplications}, 2012.
+
+\bibitem{Perez2012a}
+D.~Perez, P.~Rohlfshagen, and S.~Lucas.
+\newblock Monte carlo tree search: Long term versus short term planning.
+\newblock In {\em Proceedings of the IEEE Conference on Computational
+  Intelligence and Games}, 2012.
+
+\bibitem{Perez2012}
+D.~Perez, P.~Rohlfshagen, and S.~Lucas.
+\newblock {The Physical Travelling Salesman Problem: WCCI 2012 Competition}.
+\newblock In {\em Proceedings of the IEEE Congress on Evolutionary
+  Computation}, 2012.
+
+\bibitem{Powley2012}
+E.~Powley, D.~Whitehouse, and P.~Cowling.
+\newblock Monte carlo tree search with macro-actions and heuristic route
+  planning for the physical travelling salesman problem.
+\newblock In {\em Proceedings of IEEE Conference of Computational Intelligence
+  in Games (CIG)}, pages 234--241, 2012.
+
+\bibitem{Robles2009}
+D.~Robles and S.~M. Lucas.
+\newblock {A Simple Tree Search Method for Playing Ms. Pac-Man}.
+\newblock In {\em Proc. IEEE Conf. Comput. Intell. Games}, pages 249--255,
+  Milan, Italy, 2009.
+
+\bibitem{samothrakis2010planning}
+S.~Samothrakis and S.~Lucas.
+\newblock Planning using online evolutionary overfitting.
+\newblock In {\em Computational Intelligence (UKCI), 2010 UK Workshop on},
+  pages 1--6. IEEE, 2010.
+
+\bibitem{Samothrakis}
+S.~Samothrakis, D.~Robles, and S.~M. Lucas.
+\newblock {Fast Approximate Max-n Monte-Carlo Tree Search for Ms Pac-Man}.
+\newblock {\em IEEE Trans. Comp. Intell. AI Games}, 3(2):142--154, 2011.
+
+\end{thebibliography}

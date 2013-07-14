@@ -1,0 +1,289 @@
+% This file was created with JabRef 2.7.2.
+% Encoding: Cp1252
+
+@ARTICLE{beer1992evolving,
+  author = {R. Beer and J. Gallagher},
+  title = {{Evolving Dynamical Neural Networks for Adaptive Behavior}},
+  journal = {Adaptive behavior},
+  year = {1992},
+  volume = {1},
+  pages = {91--122},
+  number = {1},
+  publisher = {Sage Publications}
+}
+
+@ARTICLE{Browne2012,
+  author = {C. Browne and E. Powley and D. Whitehouse and S. Lucas and P. Cowling
+	and P. Rohlfshagen and S. Tavener and D. Perez and S. Samothrakis
+	and S. Colton},
+  title = {{A Survey of Monte Carlo Tree Search Methods}},
+  journal = {IEEE Transactions on Computational Intelligence and AI in Games},
+  year = {2012},
+  volume = {4:1},
+  pages = {1--43},
+  owner = {diego},
+  timestamp = {2012.04.16}
+}
+
+@INPROCEEDINGS{coquelin2007bandit,
+  author = {Coquelin, Pierre-Arnaud and Munos, R{\'e}mi and others},
+  title = {{Bandit Algorithms for Tree Search}},
+  booktitle = {Uncertainty in Artificial Intelligence},
+  year = {2007}
+}
+
+@TECHREPORT{Teuling2011,
+  author = {{Den Teuling}, N. G. P.},
+  title = {{Monte-Carlo Tree Search for the Simultaneous Move Game Tron}},
+  institution = {Univ. Maastricht},
+  year = {2011},
+  address = {Netherlands},
+  file = {:Users/cambolbro/Library/Application Support/Mendeley Desktop/Downloaded/Den Teuling - 2011 - Monte-Carlo Tree Search for the Simultaneous Move Game Tron.pdf:pdf},
+  owner = {Diego},
+  timestamp = {2012.11.13},
+  url = {http://www.unimaas.nl/games/files/bsc/Denteuling-paper.pdf}
+}
+
+@INPROCEEDINGS{Edelkamp2010,
+  author = {Edelkamp, Stefan and Kissmann, Peter and Sulewski, Damian and Messerschmidt,
+	Hartmut},
+  title = {{Finding the Needle in the Haystack with Heuristically Guided Swarm
+	Tree Search}},
+  booktitle = {Multikonf. Wirtschaftsinform.},
+  year = {2010},
+  pages = {2295--2308},
+  address = {Gottingen, Germany},
+  file = {:Users/cambolbro/Library/Application Support/Mendeley Desktop/Downloaded/Edelkamp et al. - 2010 - Finding the Needle in the Haystack with Heuristically Guided Swarm Tree Search.pdf:pdf},
+  owner = {Diego},
+  timestamp = {2012.11.13},
+  url = {http://webdoc.sub.gwdg.de/univerlag/2010/mkwi/03\_anwendungen/planen\_scheduling/05\_finding\_the\_needle\_in\_the\_haystack.pdf}
+}
+
+@ARTICLE{Fernandez2005,
+  author = {Antonio J. Fernández and Javier Jiménez González},
+  title = {{Action Games: Evolutive Experiences}},
+  journal = {Advances in Soft Computing Series},
+  year = {2005},
+  volume = {33},
+  pages = {487--501},
+  owner = {Diego},
+  timestamp = {2012.11.05}
+}
+
+@TECHREPORT{Gelly2006a,
+  author = {Gelly, Sylvain and Wang, Yizao and Munos, R\'{e}mi and Teytaud, Olivier},
+  title = {{Modification of UCT with Patterns in Monte-Carlo Go}},
+  institution = {Inst. Nat. Rech. Inform. Auto. (INRIA)},
+  year = {2006},
+  address = {Paris},
+  file = {:Users/cambolbro/Library/Application Support/Mendeley Desktop/Downloaded/Gelly et al. - 2006 - Modification of UCT with Patterns in Monte-Carlo Go(2).pdf:pdf},
+  owner = {Diego},
+  timestamp = {2012.12.19}
+}
+
+@INPROCEEDINGS{gomez1999solving,
+  author = {Gomez, F.J. and Miikkulainen, R.},
+  title = {{Solving Non-Markovian Control Tasks with Neuroevolution}},
+  booktitle = {International Joint Conference on Artificial Intelligence},
+  year = {1999},
+  volume = {16},
+  pages = {1356--1361},
+  organization = {LAWRENCE ERLBAUM ASSOCIATES LTD},
+  owner = {ssamot},
+  timestamp = {2012.12.13}
+}
+
+@INCOLLECTION{Hansen2006,
+  author = {N. Hansen},
+  title = {{The {CMA} Evolution Strategy: A Comparing Review}},
+  booktitle = {Towards a new evolutionary computation. Advances on estimation of
+	distribution algorithms},
+  publisher = {Springer},
+  year = {2006},
+  editor = {J.A. Lozano and P. Larranaga and I. Inza E. and Bengoetxea},
+  pages = {75--102},
+  owner = {Diego},
+  timestamp = {2012.11.19}
+}
+
+@INPROCEEDINGS{Ikehata2010,
+  author = {Ikehata, Nozomu and Ito, Takeshi},
+  title = {{Monte Carlo Tree Search in Ms. Pac-Man}},
+  booktitle = {Proc. 15th Game Progrramming Workshop},
+  year = {2010},
+  pages = {1--8},
+  address = {Kanagawa, Japan},
+  owner = {Diego},
+  timestamp = {2012.11.13}
+}
+
+@ARTICLE{Lee2009,
+  author = {Lee, Chang-Shing and Wang, Mei-Hui and Chaslot, Guillaume Maurice
+	Jean-Bernard and Hoock, Jean-Baptiste and Rimmel, Arpad and Teytaud,
+	Olivier and Tsai, Shang-Rong and Hsu, Shun-Chin and Hong, Tzung-Pei},
+  title = {{The Computational Intelligence of MoGo Revealed in Taiwan's Computer
+	Go Tournaments}},
+  journal = {IEEE Transactions on Computational Intelligence and AI in Games},
+  year = {2009},
+  volume = {1},
+  pages = {73--89},
+  number = {1},
+  abstract = {In order to promote computer Go and stimulate fur- ther development
+	and research in the field, the event activities, Computational Intelligence
+	Forum andWorld 9 9 Computer Go Championship, were held in Taiwan.
+	This study focuses on the in- vited games played in the tournamentTaiwaneseGoPlayersVersus
+	the Computer Program MoGo held at the National University of Tainan
+	(NUTN), Tainan, Taiwan. Several Taiwanese Go players, including one
+	9-Dan (9D) professional Go player and eight am- ateur Go players,
+	were invited by NUTN to play against MoGo from August 26 to October
+	4, 2008. The MoGo program combines all-moves-as-first (AMAF)/rapid
+	action value estimation (RAVE) values, online â€œupper confidence
+	tree (UCT)-likeâ€? values, offline values extracted from databases,
+	and expert rules. Additionally, four properties of MoGo are analyzed
+	including: 1) the weakness in corners, 2) the scaling over time,
+	3) the behavior in handicap games, and 4) the main strength of MoGo
+	in contact fights. The results reveal that MoGo can reach the level
+	of 3 Dan (3D) with: 1) good skills for fights, 2) weaknesses in corners,
+	in particular, for â€œsemeaiâ€? situations, and 3) weaknesses in
+	favorable situations such as handicap games. It is hoped that the
+	advances in AI and com- putational power will enable considerable
+	progress in the field of computer Go, with the aim of achieving the
+	same levels as com- puter Chess or Chinese Chess in the future.},
+  file = {:Users/cambolbro/Library/Application Support/Mendeley Desktop/Downloaded/Lee et al. - 2009 - The Computational Intelligence of MoGo Revealed in Taiwan's Computer Go Tournaments.pdf:pdf},
+  issn = {1943-068X},
+  keywords = {Computational intelligence,MCTS,MoGo,Monte Carlo tree search,computer
+	Go,game},
+  owner = {Diego},
+  publisher = {IEEE},
+  timestamp = {2012.11.13},
+  url = {http://ieeexplore.ieee.org/xpls/abs\_all.jsp?arnumber=4804732}
+}
+
+@INPROCEEDINGS{Matsumoto2010,
+  author = {Matsumoto, Shimpei and Hirosue, Noriaki and Itonaga, Kyohei and Yokoo,
+	Kazuma and Futahashi, Hisatomo},
+  title = {{Evaluation of Simulation Strategy on Single-Player Monte-Carlo Tree
+	Search and its Discussion for a Practical Scheduling Problem}},
+  booktitle = {Proceedings of the International MultiConference of Engineers and
+	Computer Scientists},
+  year = {2010},
+  volume = {3},
+  pages = {2086--2091},
+  address = {Hong Kong},
+  file = {:Users/cambolbro/Research/UCT grant/MCTS/articles/matsumoto-IMECS2010\_pp2086-2091.pdf:pdf},
+  keywords = {bubble breaker,carlo tree search,monte-,one-player game,scheduling
+	problem},
+  owner = {Diego},
+  timestamp = {2012.11.13},
+  url = {http://www.iaeng.org/publication/IMECS2010/IMECS2010\_pp2086-2091.pdf}
+}
+
+@INPROCEEDINGS{mercieca2011particle,
+  author = {Mercieca, J. and Fabri, S.},
+  title = {{Particle Swarm Optimization for Nonlinear Model Predictive Control}},
+  booktitle = {ADVCOMP 2011, The Fifth International Conference on Advanced Engineering
+	Computing and Applications in Sciences},
+  year = {2011},
+  pages = {88--93}
+}
+
+@INPROCEEDINGS{Perez2012,
+  author = {D. Perez and P. Rohlfshagen and S. Lucas},
+  title = {{The Physical Travelling Salesman Problem: WCCI 2012 Competition}},
+  booktitle = {Proceedings of the IEEE Congress on Evolutionary Computation},
+  year = {2012},
+  owner = {diego},
+  timestamp = {2012.04.16}
+}
+
+@INPROCEEDINGS{Perez2012a,
+  author = {Diego Perez and Philipp Rohlfshagen and Simon Lucas},
+  title = {{Monte Carlo Tree Search: Long Term versus Short Term Planning}},
+  booktitle = {Proceedings of the IEEE Conference on Computational Intelligence
+	and Games},
+  year = {2012},
+  owner = {Diego},
+  timestamp = {2012.09.24}
+}
+
+@INPROCEEDINGS{Perez2012b,
+  author = {Diego Perez and Philipp Rohlfshagen and Simon Lucas},
+  title = {{Monte-Carlo Tree Search for the Physical Travelling Salesman Problem}},
+  booktitle = {Proceedings of EvoApplications},
+  year = {2012},
+  owner = {Diego},
+  timestamp = {2012.04.25}
+}
+
+@CONFERENCE{Powley2012,
+  author = {Edward Powley and Daniel Whitehouse and Peter Cowling},
+  title = {{Monte Carlo Tree Search with Macro-actions and Heuristic Route Planning
+	for the Physical Travelling Salesman Problem}},
+  booktitle = {Proc. IEEE Conference of Computational Intelligence in Games},
+  year = {2012},
+  pages = {234--241},
+  owner = {Diego},
+  timestamp = {2012.11.05}
+}
+
+@BOOK{reeves2002genetic,
+  title = {{Genetic Algorithms-Principles and Perspectives: a Guide to GA Theory}},
+  publisher = {Kluwer Academic Pub},
+  year = {2002},
+  author = {Reeves, Colin R and Rowe, Jonathan E},
+  volume = {20}
+}
+
+@INPROCEEDINGS{Robles2009,
+  author = {Robles, David and Lucas, Simon M.},
+  title = {{A Simple Tree Search Method for Playing Ms. Pac-Man}},
+  booktitle = {Proceedings of the IEEE Conference of Computational Intelligence
+	in Games},
+  year = {2009},
+  pages = {249--255},
+  address = {Milan, Italy},
+  file = {::},
+  isbn = {9781424448159},
+  keywords = {000nonmcts},
+  owner = {Diego},
+  timestamp = {2012.11.13}
+}
+
+@INPROCEEDINGS{samothrakis2010planning,
+  author = {Samothrakis, S. and Lucas, S.M.},
+  title = {{Planning Using Online Evolutionary Overfitting}},
+  booktitle = {UK Workshop on Computational Intelligence},
+  year = {2010},
+  pages = {1--6},
+  organization = {IEEE},
+  owner = {ssamot},
+  timestamp = {2012.12.13}
+}
+
+@ARTICLE{Samothrakis,
+  author = {Samothrakis, Spyridon and Robles, David and Lucas, Simon M.},
+  title = {{Fast Approximate Max-n Monte-Carlo Tree Search for Ms Pac-Man}},
+  journal = {IEEE Transactions on Computational Intelligence and AI in Games},
+  year = {2011},
+  volume = {3},
+  pages = {142--154},
+  number = {2},
+  file = {:Users/cambolbro/Library/Application Support/Mendeley Desktop/Downloaded/Samothrakis, Robles, Lucas - 2011 - Fast Approximate Max-n Monte-Carlo Tree Search for Ms Pac-Man.pdf:pdf},
+  owner = {Diego},
+  timestamp = {2012.11.13}
+}
+
+@INPROCEEDINGS{Samothrakis2010,
+  author = {Samothrakis, Spyridon and Robles, David and Lucas, Simon M.},
+  title = {{A UCT Agent for Tron: Initial Investigations}},
+  booktitle = {Proceedings of the IEEE Conference of Computational Intelligence
+	in Games},
+  year = {2010},
+  pages = {365--371},
+  address = {Dublin, Ireland},
+  file = {:Users/cambolbro/Research/UCT grant/MCTS/articles/samothrakis-uct-tron-cig10\_045\_017.pdf:pdf},
+  owner = {Diego},
+  timestamp = {2012.11.13},
+  url = {http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.173.6010\&amp;rep=rep1\&amp;type=pdf}
+}
+
